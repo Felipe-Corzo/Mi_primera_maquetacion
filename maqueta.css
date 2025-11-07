@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(51, 48, 48);
+}
+span{
+    color: gray;
+    font-size: 15px;
+}
+div{
+    background-color: black;
+    color: white;
+
+
+    padding: 100px;
+    margin: 10%;
+}

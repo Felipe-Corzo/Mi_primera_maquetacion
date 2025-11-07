@@ -1,0 +1,26 @@
+hr {
+    border: 1px solid black;
+    width: 110%;
+    margin: auto;
+}
+
+header{
+    border: 1px solid blue;
+    width: 80%;
+    height: 220px;
+    margin: auto;
+}
+nav{
+    background-color: rgb(155, 151, 151);
+    width: 200px;
+    height: 200px;
+    margin: 3px 180px;
+}
+.circulo{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 100%;
+    float: right ;
+    margin: 90px 80px;
+}
